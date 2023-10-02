@@ -1,0 +1,6 @@
+-used mock json data made using a python script
+-used a mock image
+-didnt need to use redux , since project was fairly simple , if i did use redux , it would only have one hotels feature with getHotels reducer , so thats why did not do it
+-show more button works as you want
+-city selector works too
+-i admit the ui is currently not that good , but since this is a assignment thats why i did this.
